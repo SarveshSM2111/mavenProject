@@ -1,0 +1,5 @@
+pool: SelfHost
+
+steps:
+- script: hostname
+  
